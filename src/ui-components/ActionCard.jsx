@@ -106,7 +106,7 @@ export default function ActionCard(props) {
             position="relative"
             padding="0px 0px 0px 0px"
             whiteSpace="pre-wrap"
-            children="asd"
+            children="Information about this product"
             {...getOverrideProps(overrides, "Information about this product")}
           ></Text>
         </Flex>
